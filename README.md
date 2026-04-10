@@ -8,7 +8,9 @@ Scriptworks is a full-stack data catalog and schema management platform built to
 
 ## Screenshots
 
-> _(Screenshots of the canvas, approval panel, and terminal will be added)_
+![Canvas](images/SW_Main.png)
+![Canvas](images/SW_Approve_Reject.png)
+![Canvas](images/SW_Settings.png)
 
 ---
 
